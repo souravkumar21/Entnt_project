@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This Project is Live. Link : https://souravkumar21.github.io/Entnt_project/
+This Project is Live at : https://souravkumar21.github.io/Entnt_project/
+Project Documentation : https://docs.google.com/document/d/e/2PACX-1vQRatb-lY9xdb-spnnfXupRjT-uvk8Y4-uofxBMIQ7xa-hMU9jvO9sKz-8ynTokhLohl5WkHL6lZPUj/pub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
