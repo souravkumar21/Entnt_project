@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "315f",
+      "Product_Name": "Laptop",
+      "Product_Category": "electronics",
+      "Price": "888888",
+      "Stock_Quantity": "99"
+    },
+    {
+      "id": "c09d",
+      "Product_Name": "Laptop",
+      "Product_Category": "electronics",
+      "Price": "222222",
+      "Stock_Quantity": "44"
+    },
+    {
+      "id": "6fae",
+      "Product_Name": "car",
+      "Product_Category": "car",
+      "Price": "55555566",
+      "Stock_Quantity": "2"
+    },
+    {
+      "id": "f516",
+      "Product_Name": "Desktop",
+      "Product_Category": "electronics",
+      "Price": "7777777",
+      "Stock_Quantity": "1"
+    }
+  ],
+  "status": [
+    {
+      "Order_Number": "444",
+      "Customer_name": "Subarno",
+      "Order_date": "12-1-2024",
+      "Order_status": "shipped"
+    },
+    {
+      "id": "8bce",
+      "Order_Number": "100",
+      "Customer_name": "Subarno",
+      "Order_date": "12-1-2024",
+      "Order_status": "shipped"
+    },
+    {
+      "id": "a3ef",
+      "Order_Number": "200",
+      "Customer_name": "Sourav",
+      "Order_date": "22-5-24",
+      "Order_status": "shipped"
+    },
+    {
+      "id": "6aa7",
+      "Order_Number": "300",
+      "Customer_name": "Abhisek",
+      "Order_date": "12-1-2024",
+      "Order_status": "processed"
+    },
+    {
+      "id": "d177",
+      "Order_Number": "400",
+      "Customer_name": "Sujit",
+      "Order_date": "12-1-2024",
+      "Order_status": "shipped"
+    },
+    {
+      "id": "91da",
+      "Order_Number": "500",
+      "Customer_name": "Rohit",
+      "Order_date": "22-5-24",
+      "Order_status": "processed"
+    },
+    {
+      "id": "c4f6",
+      "Order_Number": "600",
+      "Customer_name": "Rohan",
+      "Order_date": "20-1-2024",
+      "Order_status": "Delivered"
+    }
+  ]
+}
