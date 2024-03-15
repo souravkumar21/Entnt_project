@@ -1,0 +1,252 @@
+.App {
+  text-align: center;
+  background-color: #5884db;
+  
+  
+}
+
+.header {
+  height: 130px;
+  padding: 20px;
+  text-align: center;
+  background: #06f0c1;
+  color: rgb(48, 2, 41);
+  font-size: 90px;
+}
+
+.footer {
+  background-color: #06f0c1;
+  height: 50px;
+  width: 100%;
+  font-size: 15px;
+  text-align: center;
+  padding: 8px;
+  color: white;
+}
+
+
+.banner {
+  background-color: aliceblue;
+  margin: 10px;
+  height: 200px;
+  display: flex;
+  border-radius: 1pc;
+}
+
+.seccontainer {
+  background-color: aliceblue;
+  margin: 10px;
+  height: 430px;
+  display: flex;
+  border-radius: 1pc;
+}
+
+.container img {
+  margin: 15px;
+  height: 50%;
+  width: 70%;
+}
+
+.my-button {
+  background-color: rgb(226, 237, 104); 
+  height: 70px;
+  width: 150px;
+  border: 2px solid #04AA6D;
+  border-radius: 1pc;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.totalproducts{
+  background-color: rgb(131, 242, 146);
+  display: flex;
+  float: left;
+  height: 180px;
+  width: 800px;
+  padding-left: 10px;
+  margin: 10px;
+  border-radius: 1.5pc;
+  color: rgb(55, 2, 116);
+
+}
+
+.totalorders{
+  background-color: rgb(236, 234, 116);
+  display: flex;
+  float: left;
+  height: 180px;
+  width: 800px;
+  padding-left: 10px;
+  margin: 10px;
+  border-radius: 1.5pc;
+  color: rgb(55, 2, 116);
+
+}
+.blankdiv{
+  background-color: rgb(252, 252, 251);
+  display: flex;
+  float: left;
+  height: 300px;
+  width: 80px;
+  padding-left: 15px;
+  margin: 10px;
+  border-radius: 1pc;
+}
+
+.sec1 {
+
+ 
+  
+  background-color: rgb(131, 200, 242);
+
+  height: 410px;
+  padding: 15px;
+  margin: 10px;
+  width: 550px;
+  display: flex;
+  float: left;
+  border-radius: 1pc;
+
+}
+
+.sec2 {
+
+ 
+ 
+  background-color: rgb(137, 241, 128);
+  margin: 10px;
+  height: 410px;
+  padding: 15px;
+  width: 560px;
+  display: flex;
+  float: left;
+  border-radius: 1pc;
+
+}
+
+.sec3 {
+
+ 
+ 
+  background-color: rgb(239, 154, 193);
+  margin: 10px;
+  height: 410px;
+  padding: 15px;
+  width: 550px;
+  display: flex;
+  float: left;
+  border-radius: 1pc;
+
+}
+
+/* manageproduct page css for navbar */
+.nav {
+  background-color: rgb(126, 240, 177);
+  margin: 10px;
+  height: 65px;
+  width: 100%;
+  display: flex;
+  border-radius: 1pc;
+}
+
+.home{
+  background-color: rgb(218, 216, 144);
+  display: flex;
+  float: left;
+  height: 50px;
+  width: 230px;
+  padding-left: 15px;
+  margin: 10px;
+  border-radius: 1pc;
+  font-size: 10px;
+
+}
+
+.manageproducts{
+  background-color: rgb(116, 236, 216);
+  display: flex;
+  float: left;
+  height: 50px;
+  width: 250px;
+  padding-left: 15px;
+  margin: 10px;
+  border-radius: 1pc;
+
+}
+
+.manageorders{
+  background-color: rgb(224, 116, 236);
+  display: flex;
+  float: left;
+  height: 50px;
+  width: 230px;
+  padding-left: 15px;
+  margin: 10px;
+  border-radius: 1pc;
+
+}
+
+.ordercalender{
+  background-color: rgb(236, 116, 126);
+  display: flex;
+  float: left;
+  height: 50px;
+  width: 230px;
+  padding-left: 15px;
+  margin: 10px;
+  border-radius: 1pc;
+
+}
+
+.addproducts{
+  background-color: rgb(166, 108, 238);
+  display: flex;
+  float: left;
+  height: 50px;
+  width: 230px;
+  padding-left: 15px;
+  margin: 10px;
+  border-radius: 1pc;
+
+}
+
+
+
+
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/*.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.App-link {
+  color: #fbd461;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
