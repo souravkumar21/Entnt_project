@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ### ` npm run start:dev`
 
-Runs the app in the development mode.\
+Runs the app in the development mode. To start the project always use the command  npm run start:dev . Don't use "npm start" if you use this command then json server will not start. and you can't see and data.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
